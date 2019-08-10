@@ -1,0 +1,4 @@
+The best transformation rule to transform NN to JJ is:
+Change tag from NN to JJ if prev tag is  MD
+The best transformation rule to transform NN to VB is:
+Change tag from NN to VB if prev tag is  MD
